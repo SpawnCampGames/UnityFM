@@ -9,7 +9,7 @@
 UnityFM is a place for learning basic Unity concepts. It contains small scripts, mini-systems, demo scenes, and cheat sheets aimed at helping beginners understand Unity workflows and mechanics.
 
 
-** All assets, code, and examples are completely free to use either to learn with or even create with afterwards. **
+**All assets, code, and examples are completely free to use either to learn with or even create with afterwards.**
 
 > [!IMPORTANT]
 > **License** → [SpawnCampGames Free Use License]  
